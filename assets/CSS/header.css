@@ -45,15 +45,15 @@
 }
 
 .header .informacoes .local::before {
-    background-image: url(../images/icons/locale.svg);
+    background-image: url(../images/locale.svg);
 }
 
 .header .informacoes .fone::before {
-    background-image: url(../images/icons/phone.svg);
+    background-image: url(../images/phone.svg);
 }
 
 .header .informacoes .mail::before {
-    background-image: url(../images/icons/mail.svg);
+    background-image: url(../images/mail.svg);
 }
 
 @media only screen and (min-width: 768px) {

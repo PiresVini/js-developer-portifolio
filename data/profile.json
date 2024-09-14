@@ -8,27 +8,27 @@
       "hardSkills": [
         {
           "name": "HTML5",
-          "logo": "/assets/images/icons/html-icon.svg"
+          "logo": "/assets/images/html-icon.svg"
         },
         {
           "name": "CSS",
-          "logo": "/assets/images/icons/css-icon.svg"
+          "logo": "/assets/images/css-icon.svg"
         },
         {
           "name": "Java Script",
-          "logo": "/assets/images/icons/js-icon.svg"
+          "logo": "/assets/images/js-icon.svg"
         },
         {
           "name": "React",
-          "logo": "/assets/images/icons/react-icon.svg"
+          "logo": "/assets/images/react-icon.svg"
         },
         {
           "name": "Python",
-          "logo": "/assets/images/icons/python-icon.svg"
+          "logo": "/assets/images/python-icon.svg"
         },
         {
           "name": "Postgresql",
-          "logo": "/assets/images/icons/PGsql-icon.svg"
+          "logo": "/assets/images/PGsql-icon.svg"
         }
       ],
       "softSkills": [
