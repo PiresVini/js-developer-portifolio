@@ -1,0 +1,15 @@
+.link-footer {
+    display: flex;
+    justify-content: center;
+    gap: .5rem;
+    cursor: pointer;
+}
+
+footer a img {
+    width: 1.5rem;
+}
+
+footer a p {
+    font-family: "Neue-Machina", sans-serif;
+    font-size: small;
+}

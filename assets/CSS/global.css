@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    font-family: "Open-Sans", sans-serif;
+}
+
+@font-face {
+    font-family: "Neue-Machina";
+    src: url(../fonts/NeueMachina-Regular.otf);
+}
+
+main {display: none;}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    
+    margin: .5rem;
+    padding: .5rem;
+    border: white solid 1px;
+    border-radius: 1rem;
+}
+
+.main::before {
+    content: ' ';
+    background-image: url(../images/bg01.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+
+.main::after {
+    content: ' ';
+    background-image: url(../images/bg02.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    
+}
+
+body {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    color: white;
+    align-items: flex-start;
+    justify-content: center;
+}
