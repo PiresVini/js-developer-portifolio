@@ -1,6 +1,6 @@
 {
     "name": "Vinicius Pires",
-    "photo": "/assets/images/perfil-novo.png",
+    "photo": "https://raw.githubusercontent.com/PiresVini/js-developer-portifolio/main/assets/images/perfil-novo.png",
     "location": "Rio Grande - RS",
     "phone": "(53) 99961-8879",
     "email": "vinicius.pires.hdc@gmail.com",
