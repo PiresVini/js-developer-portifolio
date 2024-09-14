@@ -8,27 +8,27 @@
       "hardSkills": [
         {
           "name": "HTML5",
-          "logo": "/assets/images/html-icon.svg"
+          "logo": "https://raw.githubusercontent.com/PiresVini/js-developer-portifolio/new/assets/images/html-icon.svg"
         },
         {
           "name": "CSS",
-          "logo": "/assets/images/css-icon.svg"
+          "logo": "https://raw.githubusercontent.com/PiresVini/js-developer-portifolio/new/assets/images/css-icon.svg"
         },
         {
           "name": "Java Script",
-          "logo": "/assets/images/js-icon.svg"
+          "logo": "https://raw.githubusercontent.com/PiresVini/js-developer-portifolio/new/assets/images/js-icon.svg"
         },
         {
           "name": "React",
-          "logo": "/assets/images/react-icon.svg"
+          "logo": "https://raw.githubusercontent.com/PiresVini/js-developer-portifolio/new/assets/images/react-icon.svg"
         },
         {
           "name": "Python",
-          "logo": "/assets/images/python-icon.svg"
+          "logo": "https://raw.githubusercontent.com/PiresVini/js-developer-portifolio/new/assets/images/python-icon.svg"
         },
         {
           "name": "Postgresql",
-          "logo": "/assets/images/PGsql-icon.svg"
+          "logo": "https://raw.githubusercontent.com/PiresVini/js-developer-portifolio/new/assets/images/PGsql-icon.svg"
         }
       ],
       "softSkills": [
