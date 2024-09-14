@@ -81,7 +81,7 @@ async function getExperiencia () {
         experienciaProfissional.innerHTML += `<div class="exp">
         <h2 class="exp-h2">${element.name}</h2>
         <ul class="lista-exp">
-            <img src="/assets/images/calendar-icon.svg" alt="icone calendario">
+            <img src="https://raw.githubusercontent.com/PiresVini/js-developer-portifolio/new/assets/images/calendar-icon.svg" alt="icone calendario">
             <li class="exp-li">${element.period}</li>
         </ul>
         <p class="exp-p">${element.description}</p>
